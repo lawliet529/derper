@@ -1,3 +1,3 @@
-#/bin/bash
+#!/bin/bash
 
 derper --hostname=${HOSTNAME}
